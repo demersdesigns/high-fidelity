@@ -1,0 +1,19 @@
+@import "~antd/dist/antd.css";
+#root{
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+.ant-layout {
+  flex: 1;
+  text-align: center;
+}
+
+.primary-header {
+  color: whitesmoke;
+}
+
+.primary-footer {
+  background-color: black;
+  color: whitesmoke;
+}
